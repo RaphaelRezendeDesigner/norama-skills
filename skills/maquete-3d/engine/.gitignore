@@ -1,0 +1,4 @@
+node_modules/
+simulator-out/
+__pycache__/
+*.pyc

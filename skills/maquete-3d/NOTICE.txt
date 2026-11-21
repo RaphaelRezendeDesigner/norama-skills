@@ -1,0 +1,2 @@
+Motor 3D: "simulator" por Nyxera0x (https://github.com/Nyxera0x/simulator), licença MIT — ver engine/LICENSE.
+Adaptação para maquetes do Amazonas e vídeos narrativos.
