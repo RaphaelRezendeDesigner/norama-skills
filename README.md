@@ -66,9 +66,9 @@ compacte só a pasta desejada) e envie em **Configurações → Capacidades → 
 
 **Claude Code (terminal):**
 ```bash
-npx skills add <dono>/norama-skills --skill <nome-da-skill> -a claude-code
+npx skills add RaphaelRezendeDesigner/norama-skills --skill <nome-da-skill> -a claude-code
 # ou manualmente
-git clone https://github.com/<dono>/norama-skills && cp -r norama-skills/skills/<nome-da-skill> ~/.claude/skills/
+git clone https://github.com/RaphaelRezendeDesigner/norama-skills && cp -r norama-skills/skills/<nome-da-skill> ~/.claude/skills/
 ```
 
 **Sessões do Claude Code na web:** abra a conversa com este repositório selecionado; as skills de
